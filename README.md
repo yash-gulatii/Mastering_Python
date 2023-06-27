@@ -1,3 +1,10 @@
 # Python Mastery Challenge: Roadmap Edition
 
 #### Welcome to the Python Mastery Challenge! In this challenge, i will follow the roadmap provided by [roadmap.sh](https://roadmap.sh/python) to further enhance my Python skills and become a master in the language. The challenge is designed to help me reinforce my existing knowledge while exploring advanced topics and best practices in Python.The key to mastering Python is practice and hands-on experience. I will allocate dedicated time to work on each section of the roadmap, completing exercises, and building projects. I will append my learning in this readme file sorted by days.
+
+## Day 1 of Python Mastery Challenge (27 June 2023) - Datastructures and Algorithms 🗓️🐍
+
+- #### 📚 Explored algorithms and their qualities
+- #### 💡 Learned about data structures and their importance
+- #### 🧵 Discussed linear and non-linear data structures
+- #### 🔢 Explored array, stack, queue, and linked list
