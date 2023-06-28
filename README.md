@@ -8,3 +8,9 @@
 - #### 💡 Learned about data structures and their importance
 - #### 🧵 Discussed linear and non-linear data structures
 - #### 🔢 Explored array, stack, queue, and linked list
+
+# Day 2 of Python Mastery Challenge (28 June 2023) - Asymptotic Analysis 📚🔍
+
+- #### 🔢 Explored Big-O, Omega, and Theta notations 
+- #### ⏰ Discussed the efficiency of algorithms based on input size 
+- #### 💡 Learned about the Master Theorem for solving recurrence relations
