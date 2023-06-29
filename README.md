@@ -9,8 +9,15 @@
 - #### 🧵 Discussed linear and non-linear data structures
 - #### 🔢 Explored array, stack, queue, and linked list
 
-# Day 2 of Python Mastery Challenge (28 June 2023) - Asymptotic Analysis 📚🔍
+## Day 2 of Python Mastery Challenge (28 June 2023) - Asymptotic Analysis 📚🔍
 
-- #### 🔢 Explored Big-O, Omega, and Theta notations 
-- #### ⏰ Discussed the efficiency of algorithms based on input size 
+- #### 🔢 Explored Big-O, Omega, and Theta notations
+- #### ⏰ Discussed the efficiency of algorithms based on input size
 - #### 💡 Learned about the Master Theorem for solving recurrence relations
+
+## Day 3 progress of Datastructures and Algorithms (29 June 2023) 📚💻
+
+- #### 🔍 Explored Divide and Conquer Algorithm
+- #### ✂️ Understood the divide, conquer, and combine steps
+- #### ⏱️ Calculated time complexity using the master theorem
+- #### 🔄 Compared Divide and Conquer with Dynamic approach
