@@ -15,9 +15,17 @@
 - #### ⏰ Discussed the efficiency of algorithms based on input size
 - #### 💡 Learned about the Master Theorem for solving recurrence relations
 
-## Day 3 progress of Datastructures and Algorithms (29 June 2023) 📚💻
+## Day 3 of Python Mastery Challenge (29 June 2023) 📚💻
 
 - #### 🔍 Explored Divide and Conquer Algorithm
 - #### ✂️ Understood the divide, conquer, and combine steps
 - #### ⏱️ Calculated time complexity using the master theorem
 - #### 🔄 Compared Divide and Conquer with Dynamic approach
+
+## Day 4 of Python Mastery Challenge (30 June 2023) 📚💻
+
+- #### 🔍 Explored the Stack data structure, which follows the Last In First Out (LIFO) principle
+- #### ✂️ Learned about basic operations of a stack: Push, Pop, IsEmpty, IsFull, and Peek
+- #### 📝 Implemented a stack in Python using arrays/lists
+- #### ⏱️ Analyzed the time complexity of stack operations (O(1))
+- #### 🧰 Discovered various applications of the stack data structure
