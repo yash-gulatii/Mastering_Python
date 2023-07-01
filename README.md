@@ -29,3 +29,11 @@
 - #### 📝 Implemented a stack in Python using arrays/lists
 - #### ⏱️ Analyzed the time complexity of stack operations (O(1))
 - #### 🧰 Discovered various applications of the stack data structure
+
+## Day 5 of Python Mastery Challenge (01 July 2023) 📚💻
+
+- #### 🔍 Explored Queue Data Structure
+- #### ➕ Implemented a Simple Queue in Python
+- #### 🔄 Explored Circular Queue and its advantages
+- #### 🔢 Implemented Circular Queue class in Python
+- #### 📥 Enqueued and dequeued elements
