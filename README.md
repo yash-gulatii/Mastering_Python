@@ -37,3 +37,17 @@
 - #### 🔄 Explored Circular Queue and its advantages
 - #### 🔢 Implemented Circular Queue class in Python
 - #### 📥 Enqueued and dequeued elements
+
+## Day 6 progress of Python Mastery Challenge (07 July 2023) 📚💻
+
+- #### 🔍 Explored Priority Queue and its implementation
+- #### ✅ Learned about assigning priority values and difference with normal queue
+- #### ⚙️ Implemented Priority Queue using the heap data structure
+- #### 🔄 Covered insertion, deletion, peeking, and extracting operations
+- #### 🔢 Explored the applications of Priority Queue
+
+#### Also learned about Deque (Double Ended Queue):
+
+- #### 🔁 Understand the concept and types of Deque
+- #### 🔐 Explored operations on a Deque (insertion, deletion, checking empty/full)
+- #### 🖥️ Implemented Deque in Python using a list
