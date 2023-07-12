@@ -38,7 +38,7 @@
 - #### 🔢 Implemented Circular Queue class in Python
 - #### 📥 Enqueued and dequeued elements
 
-## Day 6 progress of Python Mastery Challenge (07 July 2023) 📚💻
+## Day 6 of Python Mastery Challenge (07 July 2023) 📚💻
 
 - #### 🔍 Explored Priority Queue and its implementation
 - #### ✅ Learned about assigning priority values and difference with normal queue
@@ -51,3 +51,11 @@
 - #### 🔁 Understand the concept and types of Deque
 - #### 🔐 Explored operations on a Deque (insertion, deletion, checking empty/full)
 - #### 🖥️ Implemented Deque in Python using a list
+
+## Day 7 of Python Mastery Challenge (12 July 2023) 📚💻
+
+- #### 🔥 Explored Linked Lists and their implementation in Python. Learned about singly, doubly, and circular types. 🔄
+- #### 💡 Implemented various operations on Linked Lists: traversal, insertion, deletion, search, and sorting. 📝
+- #### ⚙️ Also delved into Hash Tables - an efficient data structure for key-value storage using hash functions. 🔑🗄️
+- #### 🌟 Building a strong foundation in Data Structures and Algorithms through this challenge! 💪
+- #### 🔗 Linked Lists, 🗃️ Hash Tables, and 🚀 Python coding skills coming together! Exciting journey ahead! 🌈
