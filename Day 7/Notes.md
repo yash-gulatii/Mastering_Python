@@ -635,7 +635,7 @@ head = one
 
 The Hash table data structure stores elements in key-value pairs where
 
-- **key-** unique integer that is used for inndexing the values
+- **key-** unique integer that is used for indexing the values
 - **values-** data that are associated with keys.
 
 <div align="center" >
