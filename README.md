@@ -59,3 +59,27 @@
 - #### ⚙️ Also delved into Hash Tables - an efficient data structure for key-value storage using hash functions. 🔑🗄️
 - #### 🌟 Building a strong foundation in Data Structures and Algorithms through this challenge! 💪
 - #### 🔗 Linked Lists, 🗃️ Hash Tables, and 🚀 Python coding skills coming together! Exciting journey ahead! 🌈
+
+## Day 8 of Python Mastery Challenge (23 July 2023) 📚💻
+
+- #### 🔍 Explored the "Heap Data Structure" 📊
+
+  - Heap is a complete binary tree satisfying the heap property: max heap (parent > child) or min heap (parent < child).
+  - Key applications include priority queues, Dijkstra's algorithm, and heap sort.
+
+- #### 📈 Understood Heap Operations:
+
+  - Heapify: Convert binary tree to a heap (max or min).
+  - Insert: Add an element to the heap and maintain the heap property.
+  - Delete: Remove an element from the heap and rearrange to maintain the heap property.
+  - Peek: Get the maximum/minimum element without removing it.
+  - Extract-Max/Min: Get and remove the maximum/minimum element from the heap.
+
+- #### 📝 Studied Fibonacci Heap:
+
+  - Collection of min heap-ordered trees with efficient operations.
+  - Supports union, insert, extract min, decrease key, and delete node operations.
+
+- #### 🔢 Python Example for Fibonacci Heap:
+
+  - Implemented Fibonacci Heap and tested insertion, extract min operations.
