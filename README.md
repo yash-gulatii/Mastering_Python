@@ -84,7 +84,7 @@
 
   - Implemented Fibonacci Heap and tested insertion, extract min operations.
 
-Day 9 of Python Mastery Challenge (01 August 2023) 📚💻
+## Day 9 of Python Mastery Challenge (01 August 2023) 📚💻
 
 - #### 🔍 Today, delved into the "Decrease Key and Delete Node Operations" 🔄 on a Fibonacci Heap 🌿
 
