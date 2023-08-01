@@ -83,3 +83,33 @@
 - #### 🔢 Python Example for Fibonacci Heap:
 
   - Implemented Fibonacci Heap and tested insertion, extract min operations.
+
+Day 9 of Python Mastery Challenge (01 August 2023) 📚💻
+
+- #### 🔍 Today, delved into the "Decrease Key and Delete Node Operations" 🔄 on a Fibonacci Heap 🌿
+
+- #### 🌟 A Fibonacci heap is tree-based and efficient, surpassing binomial and binary heaps in time complexity for certain operations.
+
+- #### ⚙️ Learned about "Decrease a Key" operation:
+
+  - Decreases a key's value to a lower one.
+  - Utilizes functions like Decrease Key, Cut, and Cascading-Cut to maintain the heap's properties.
+
+- #### 🎯 Decrease Key Example:
+
+  - Explored examples of decreasing keys from 46 to 15 and 35 to 5, demonstrating the Cut and Cascading-Cut operations.
+
+- #### ⚙️ Explored "Deleting a Node" operation:
+
+  - Utilizes decrease-key and extract-min operations to remove a given node from the heap.
+
+- #### 📝 Shared Python Example for Fibonacci Heap:
+
+  - Implemented Fibonacci Heap and tested operations with example elements.
+
+- #### 🔢 Complexities:
+
+  - Decrease Key: O(1)
+  - Delete Node: O(log n)
+
+- #### 🔗 Solved a Leetcode question "Contains Duplicate" using Python and a hashset. 🐍
