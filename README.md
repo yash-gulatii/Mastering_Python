@@ -113,3 +113,28 @@
   - Delete Node: O(log n)
 
 - #### 🔗 Solved a Leetcode question "Contains Duplicate" using Python and a hashset. 🐍
+
+## Day 10 of Python Mastery Challenge (02 August 2023) 📚💻
+
+- #### 🌳🔍 Explored Tree Data Structure! 🌳
+
+- #### 🔎 Tree is a nonlinear hierarchical data structure consisting of nodes connected by edges. 🌿
+
+- #### 📚 Tree Terminologies:
+
+  - Nodes: Entities with key/value and pointers to child nodes.
+  - Edges: Links between nodes.
+  - Root: Topmost node.
+  - Height of a Node: Number of edges to deepest leaf.
+  - Depth of a Node: Number of edges from root to node.
+  - Height of a Tree: Height of root or depth of deepest node.
+  - Degree of a Node: Total branches of a node.
+  - Forest: Collection of disjoint trees.
+
+- #### 🌟 Tree Applications:
+
+  - Binary Search Trees (BSTs) for quick element presence check.
+  - Heap for heap sort.
+  - Tries in modern routers for routing info.
+  - Popular databases use B-Trees and T-Trees for data storage.
+  - Compilers use syntax trees for program validation.
