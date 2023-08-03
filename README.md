@@ -138,3 +138,25 @@
   - Tries in modern routers for routing info.
   - Popular databases use B-Trees and T-Trees for data storage.
   - Compilers use syntax trees for program validation.
+
+## 🌳 Day 11 of Python Mastery Challenge (03 August 2023) 📚💻
+
+- #### 🔍 Explored "Tree Traversal" in Data Structures and Algorithms.
+
+- #### 🌿 Traversing a tree means visiting every node in the hierarchical structure, unlocking a realm of possibilities for operations like summing values or finding the largest one.
+
+- #### 🔄 Learned three traversal techniques: "Inorder," "Preorder," and "Postorder."
+
+  - 1️⃣ Inorder: Left subtree ➡️ Root ➡️ Right subtree.
+  - 2️⃣ Preorder: Root ➡️ Left subtree ➡️ Right subtree.
+  - 3️⃣ Postorder: Left subtree ➡️ Right subtree ➡️ Root.
+
+- #### 🌟 Embracing these techniques not only respects the hierarchy of the tree but also maintains the correct order of nodes throughout the process.
+
+- #### 🌳 Dived into the captivating world of "Binary Trees."
+
+- #### ✨ Encountered types like Full, Perfect, Complete, Degenerate, Skewed, and Balanced Binary Trees.
+
+- #### 📝 Implemented Python examples for tree traversal and delved deeper into the exciting realm of Binary Trees.
+
+- #### 🎯 Excited to tackle Leetcode's "Two Sum" question next! Let's keep up the momentum! 💪
