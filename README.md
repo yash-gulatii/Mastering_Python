@@ -160,3 +160,15 @@
 - #### 📝 Implemented Python examples for tree traversal and delved deeper into the exciting realm of Binary Trees.
 
 - #### 🎯 Excited to tackle Leetcode's "Two Sum" question next! Let's keep up the momentum! 💪
+
+## Day 12 of Python Mastery Challenge (04 August 2023) 📚💻
+
+- #### 🌳 Explored "Full Binary Trees" - every parent has 2 or no children.
+
+- #### 🌿 Dived into "Perfect Binary Trees" - nodes have 2 child nodes, leaves at the same level.
+
+- #### 🌳 "Complete Binary Trees" - all levels filled, last element may lack right sibling.
+
+- #### 🌟 Python examples checked binary tree types.
+
+- #### 📝 Practice with Python examples.
