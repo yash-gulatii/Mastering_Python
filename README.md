@@ -172,3 +172,21 @@
 - #### 🌟 Python examples checked binary tree types.
 
 - #### 📝 Practice with Python examples.
+
+## Day 13 of Python Mastery Challenge (06 August 2023) 📚💻
+
+- #### 🌳 Explored "Balanced Binary Tree" with conditions for height balance. 📚🌟
+
+- #### 📝 Noted complexities (time and space) of BST operations. 💻
+
+- #### 🌟 Discussed "Binary Search Tree (BST)" for maintaining sorted lists of numbers, explained properties, search, insert, and delete operations. 🌿
+
+- #### 🌳 Discovered "AVL Tree" - self-balancing binary search tree with balance factors (-1, 0, +1) for each node, named after Grorgy Adelson-Velsky and Landis. 🌟
+
+- #### 🌟 Noted complexities of AVL tree operations - insertion, deletion, and search. 🚀
+
+- #### 🌟 Delved into "BST Applications" - used in multilevel indexing, dynamic sorting, and managing virtual memory areas in Unix kernel. 💻🏆
+
+- #### 🌿 Explained "Balance Factor" - difference between height of left and right subtrees, crucial for AVL tree's self-balancing property. 🌳
+
+- #### 🚀 Explored "Operations on an AVL Tree" - rotating subtrees for left, right, left-right, and right-left cases. 🔄
