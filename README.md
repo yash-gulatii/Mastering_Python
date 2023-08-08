@@ -190,3 +190,45 @@ Day 9 of Python Mastery Challenge (01 August 2023) 📚💻
 - #### 🌿 Explained "Balance Factor" - difference between height of left and right subtrees, crucial for AVL tree's self-balancing property. 🌳
 
 - #### 🚀 Explored "Operations on an AVL Tree" - rotating subtrees for left, right, left-right, and right-left cases. 🔄
+
+## Day 14 of Python Mastery Challenge (07 August 2023) 📚💻
+
+- #### 🌳 Explored "B-tree" - a self-balancing search tree with multiple keys and children, ideal for faster disk accesses.
+
+- #### 💻 Discussed properties, operations - search, insertion, and deletion on B-tree.
+
+- #### 🚀 B-tree Applications: databases, file systems, multilevel indexing, and storing blocks of data.
+
+- #### ➕ Insertion Operation - search appropriate node and split if required for inserting elements.
+
+- #### 📝 Insertion Example with step-by-step illustrations.
+
+- #### ➖ Deletion Operation - search node, delete key, and balance tree to avoid underflow.
+
+- #### 🔄 Cases for Deletion - handling leaf and internal node deletions, and shrinking tree height.
+
+## Day 15 of Python Mastery Challenge (08 August 2023) 📚💻
+
+- #### 🌳 Explored "B+ Tree" - an advanced self-balancing structure where all values reside in leaf nodes, enhancing data access. 📚🌟
+
+- #### 💡 Understood multilevel indexing and its role. 🧠🔗
+
+- #### 🔑 Key Properties of B+ Tree: uniform leaf levels, children count, and key limits. ⚙️
+
+- #### 🔄 Compared B+ Tree with B-tree for data pointer location and connections. 🌿
+
+- #### 🚀 B+ Tree's Efficiency: Faster operations and searching due to connected leaves. 📈⚡️
+
+- #### ➡️ Unveiled "Searching on B+ Tree" - a step-by-step process to locate data. 🔍
+
+- #### 🔍 Illustrated Searching Example with a clear visual walkthrough. 🖼️
+
+- #### 🏁 Explored B+ Tree Applications: Multilevel indexing, efficient database operations. 🗂️🏢
+
+- #### ➕ "Insertion on B+ Tree" - Seek leaf, insert, and balance/split. 📥🌱
+
+- #### 📝 Detailed Insertion Example with easy-to-follow illustrations. 📝
+
+- #### ➖ Tackling "Deletion from B+ Tree" - Search node, delete key, and maintain balance. 📤❌
+
+- #### 🔄 Case-wise Deletion Strategies - managing leaf and internal node deletions, handling height changes. 🔀
