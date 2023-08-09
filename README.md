@@ -232,3 +232,19 @@
 - #### ➖ Tackling "Deletion from B+ Tree" - Search node, delete key, and maintain balance. 📤❌
 
 - #### 🔄 Case-wise Deletion Strategies - managing leaf and internal node deletions, handling height changes. 🔀
+
+## Day 16 of Python Mastery Challenge (09 August 2023) 📚💻
+
+- #### 🌳 Dived into "Red-Black Tree" - a self-balancing binary search tree with a color-coded twist, maintaining optimal data organization.
+
+- #### ❤️ Explored Red/Black Property, Root & Leaf Properties, and Depth Property, ensuring a balanced structure.
+
+- #### 🎨 Visualized a Red-Black Tree example, highlighting its color-coded nodes.
+
+- #### 🔄 Unveiled tree-balancing operations - Rotations, including Left, Right, Left-Right, and Right-Left.
+
+- #### 💾 Mastered "Insertion in Red-Black Tree" - adding new nodes as RED, followed by recoloring and rotation adjustments.
+
+- #### ❌ Delved into "Deletion from Red-Black Tree" - a detailed algorithm to remove nodes while maintaining balance.
+
+- #### 🔍 Explored Red-Black Tree's versatile applications, from finite maps to key Java packages and Linux Kernel.
