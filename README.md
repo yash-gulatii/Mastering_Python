@@ -264,3 +264,17 @@ Day 9 of Python Mastery Challenge (01 August 2023) 📚💻
 - #### 🔗 Grasped why new nodes are red - a smart strategy to ease depth property management.
 
 - #### 🌲 Wrapped up with a complete algorithm to maintain red-black tree properties after node insertion.
+
+## Day 18 of Python Mastery Challenge (12 August 2023) 📚💻
+
+- #### 🌳 Explored "Deletion from Red-Black Tree" - a delicate process to maintain balance and properties post-node removal.
+
+- #### 🔴 Dismantled the intricacies of deletion, paving the way to restore red-black harmony.
+
+- #### 🛠️ Illustrated a step-by-step algorithm for node deletion, covering diverse scenarios with precision.
+
+- #### 🔄 Mastered the "DeleteFix-algorithm" - a dynamic tool to ensure red-black property restoration after deletion.
+
+- #### ⚖️ Unveiled how a black node's removal triggers a dance of rotations and recoloring to mend depth violations.
+
+- #### 🌲 Wrapped up with a comprehensive flowchart capturing the intricate workflow of deletion cases.
