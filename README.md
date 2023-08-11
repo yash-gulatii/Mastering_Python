@@ -248,3 +248,19 @@
 - #### ❌ Delved into "Deletion from Red-Black Tree" - a detailed algorithm to remove nodes while maintaining balance.
 
 - #### 🔍 Explored Red-Black Tree's versatile applications, from finite maps to key Java packages and Linux Kernel.
+
+## Day 17 of Python Mastery Challenge (11 August 2023) 📚💻
+
+- #### 🌳 Explored "Insertion in Red-Black Tree" - a process of maintaining balance and properties while adding nodes.
+
+- #### 🔴 New nodes always start as RED to avoid depth property violation, ensuring a simpler fix.
+
+- #### 🎨 Illustrated the step-by-step journey of inserting a new node, from traversal to color assignment.
+
+- #### 🔄 Delved into the intricate dance of tree rotations and recoloring to retain balance.
+
+- #### 💾 Perfected the "InsertFix-algorithm" - a powerful tool to ensure the red-black property post-insertion.
+
+- #### 🔗 Grasped why new nodes are red - a smart strategy to ease depth property management.
+
+- #### 🌲 Wrapped up with a complete algorithm to maintain red-black tree properties after node insertion.
