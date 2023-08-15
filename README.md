@@ -278,3 +278,9 @@ Day 9 of Python Mastery Challenge (01 August 2023) 📚💻
 - #### ⚖️ Unveiled how a black node's removal triggers a dance of rotations and recoloring to mend depth violations.
 
 - #### 🌲 Wrapped up with a comprehensive flowchart capturing the intricate workflow of deletion cases.
+
+## Day 19 of Python Mastery Challenge (15 August 2023) 📚💻
+
+- #### Today i made the design of the WebApp (WebApp to download spotify songs, playlist and album)
+
+- #### Here is the link of the design - https://www.figma.com/file/pse0oHpCz5vOCgnvj4QPxG/Downloadify?type=design&node-id=0%3A1&mode=design&t=KNRLIoR4cPq7U6Zd-1
