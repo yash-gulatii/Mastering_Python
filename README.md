@@ -296,3 +296,15 @@ Day 9 of Python Mastery Challenge (01 August 2023) 📚💻
 - #### 🔄 Traced the efficient steps: target comparison, array division, and iterative repetition. Efficiency scales logarithmically!
 
 - #### 🔄 Deepened the understanding of Recursion - a function's enchanting journey of self-discovery and reinvocation.
+
+Day 21 of Python Mastery Challenge (17 August 2023) 📚💻
+
+- #### 📚 Delved deeper into "Data Structures & Algorithms in Python (Google)" at Udacity.
+
+- #### 🔢 Explored the realm of Sorting algorithms: Bubble Sort, Merge Sort, and Quick Sort.
+
+- #### 🔍 Uncovered the nuances of Bubble Sort's naive approach: comparisons, swaps, and printouts. Not the most efficient, but has its charms!
+
+- #### ⚡️ Unleashed the power of Quick Sort: pivoting, comparing, and fixing element positions. A versatile warrior with varying efficiency!
+
+- #### 🌌 Embarked on the Divide and Conquer journey with Merge Sort: breaking, merging, and conquering arrays. A balanced dance of efficiency!
