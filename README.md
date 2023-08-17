@@ -284,3 +284,15 @@ Day 9 of Python Mastery Challenge (01 August 2023) 📚💻
 - #### Today i made the design of the WebApp (WebApp to download spotify songs, playlist and album)
 
 - #### Here is the link of the design - https://www.figma.com/file/pse0oHpCz5vOCgnvj4QPxG/Downloadify?type=design&node-id=0%3A1&mode=design&t=KNRLIoR4cPq7U6Zd-1
+
+## Day 20 of Python Mastery Challenge (16 August 2023) 📚💻
+
+- #### 🌐 Created "Downloadify" - A Django-React project, creating its first web page. Exciting journey ahead!
+
+- #### 📚 Dived into "Data Structures & Algorithms in Python (Google)" at Udacity.
+
+- #### 🔍 Explored the Binary Search algorithm: an elegant dance of target hunting in a sorted array.
+
+- #### 🔄 Traced the efficient steps: target comparison, array division, and iterative repetition. Efficiency scales logarithmically!
+
+- #### 🔄 Deepened the understanding of Recursion - a function's enchanting journey of self-discovery and reinvocation.
