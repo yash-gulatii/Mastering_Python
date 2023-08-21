@@ -1,4 +1,4 @@
-# Day 20 (16 August 2023)
+# Day 21 (17 August 2023)
 
 ## [Data Structures & Algorithms in Python (Google)](https://learn.udacity.com/courses/ud513)
 

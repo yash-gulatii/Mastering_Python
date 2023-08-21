@@ -297,7 +297,7 @@
 
 - #### 🔄 Deepened the understanding of Recursion - a function's enchanting journey of self-discovery and reinvocation.
 
-Day 21 of Python Mastery Challenge (17 August 2023) 📚💻
+## Day 21 of Python Mastery Challenge (17 August 2023) 📚💻
 
 - #### 📚 Delved deeper into "Data Structures & Algorithms in Python (Google)" at Udacity.
 
@@ -308,3 +308,15 @@ Day 21 of Python Mastery Challenge (17 August 2023) 📚💻
 - #### ⚡️ Unleashed the power of Quick Sort: pivoting, comparing, and fixing element positions. A versatile warrior with varying efficiency!
 
 - #### 🌌 Embarked on the Divide and Conquer journey with Merge Sort: breaking, merging, and conquering arrays. A balanced dance of efficiency!
+
+## Day 22 of Python Mastery Challenge (21 August 2023) 📚💻
+
+- #### 📚 Navigated through "Data Structures & Algorithms in Python (Google)" on Udacity.
+
+- #### 🗺️ Explored the captivating world of Maps: akin to dictionaries, they house keys and values, revealing definitions to the world.
+
+- #### 🔣 Delved into Sets: a sanctuary for unique elements, providing clarity and distinction amidst the chaos of repetition.
+
+- #### 🗄️ Unveiled the enigma of Hashing: transforming values into hashes via the mystical Hash Function, encountering the phenomenon of Collisions along the way.
+
+- #### 📦 Discovered the concept of Hash Maps: transforming key-value pairs into hashes, unleashing the power of efficient retrieval and storage.
