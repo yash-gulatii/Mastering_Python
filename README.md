@@ -320,3 +320,11 @@ Day 9 of Python Mastery Challenge (01 August 2023) 📚💻
 - #### 🗄️ Unveiled the enigma of Hashing: transforming values into hashes via the mystical Hash Function, encountering the phenomenon of Collisions along the way.
 
 - #### 📦 Discovered the concept of Hash Maps: transforming key-value pairs into hashes, unleashing the power of efficient retrieval and storage.
+
+## Day 23 of Python Mastery Challenge (22 August 2023) 📚💻
+
+- #### 🌳 Explored Trees: root, leaves, levels (ancestors, parents, descendants, leafs), siblings.
+
+- #### 🌲 Tree Traversal: DFS (pre, in, post-order), BFS (level order).
+
+- #### 🔍 Binary Search Trees: Search (O(n)), Delete (leaf: O(1), parent: O(n)).
