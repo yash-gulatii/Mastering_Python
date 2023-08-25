@@ -328,3 +328,11 @@ Day 9 of Python Mastery Challenge (01 August 2023) 📚💻
 - #### 🌲 Tree Traversal: DFS (pre, in, post-order), BFS (level order).
 
 - #### 🔍 Binary Search Trees: Search (O(n)), Delete (leaf: O(1), parent: O(n)).
+
+## Day 24 of Python Mastery Challenge (25 August 2023) 📚💻
+
+- #### 🔍 Explored Leetcode - Group Anagrams solution using defaultdict and character counting.
+
+- #### 🌐 Started Django Course by Programming with Mosh: Django is a Python-based web app framework with features like admin, ORM, authentication, and caching.
+
+- #### 💡Learned views, URLs, settings in Django.
